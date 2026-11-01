@@ -19,4 +19,4 @@ jobs:
 
       - name: Push to main GitHub
         run: |
-          git push https://x-access-token:${{ secrets.MAIN_GITHUB_TOKEN }}@github.com/MAIN_USERNAME/LeetCode.git HEAD:main
+          git push https://x-access-token:${{ secrets.MAIN_GITHUB_TOKEN }}@github.com/Varunmurthy-07/LeetCode.git HEAD:main
