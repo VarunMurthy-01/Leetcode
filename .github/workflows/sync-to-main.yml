@@ -11,24 +11,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout spam repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Verify token
         env:
           GH_TOKEN: ${{ secrets.MAIN_GITHUB_TOKEN }}
         run: |
           if [ -z "$GH_TOKEN" ]; then
-            echo "ERROR: Token is missing"
+            echo "Token is missing!"
             exit 1
           fi
-          echo "Token is present"
+          echo "Token is available."
 
       - name: Push to main GitHub
         env:
           GH_TOKEN: ${{ secrets.MAIN_GITHUB_TOKEN }}
         run: |
-          git -c http.extraheader="AUTHORIZATION: basic $(echo -n "x-access-token:$GH_TOKEN" | base64 -w 0)" \
-          push https://github.com/Varunmurthy-07/LeetCode.git HEAD:main
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w 0)
+
+          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $AUTH" \
+            push https://github.com/Varunmurthy-07/LeetCode.git HEAD:main
