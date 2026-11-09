@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/VarunMurthy-01/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
