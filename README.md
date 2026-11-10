@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/VarunMurthy-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VarunMurthy-01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3693-climbing-stairs-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/VarunMurthy-01/Leetcode/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
