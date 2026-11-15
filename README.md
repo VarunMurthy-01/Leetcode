@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/VarunMurthy-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VarunMurthy-01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/VarunMurthy-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
 |  |
@@ -113,9 +115,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/VarunMurthy-01/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/VarunMurthy-01/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
