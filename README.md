@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VarunMurthy-01/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/VarunMurthy-01/Leetcode/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/VarunMurthy-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VarunMurthy-01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,15 +56,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/VarunMurthy-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/VarunMurthy-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/VarunMurthy-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VarunMurthy-01/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VarunMurthy-01/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
